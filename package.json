@@ -4,7 +4,8 @@
   "description": "react app demo",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": ""
   },
   "author": "Arun",
   "license": "ISC"
